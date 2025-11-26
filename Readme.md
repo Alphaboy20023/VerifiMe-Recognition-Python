@@ -1,0 +1,1 @@
+VerifiMe-Python is a lightweight SDK for human recognition. It leverages Mediapipe, OpenCV, and gRPC to capture, recognize, and verify users via camera or fingerprint sensors. Designed for integration into other Python projects
