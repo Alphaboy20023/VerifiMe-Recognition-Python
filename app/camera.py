@@ -27,7 +27,7 @@ class Camera:
     def close(self):
         """Release the camera stream."""
         if self.cap:
-            self.cap.release()
+            self.cap.release() # release the camera so it frees up the device for other apps or future code runs
         self.is_open = False
 
     def get_frame(self):
