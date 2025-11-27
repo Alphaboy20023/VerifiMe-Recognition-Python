@@ -2,6 +2,7 @@
 # camera.py
 import cv2
 
+
 class Camera:
     """
     Handles real-time video capture using the system's default camera.
